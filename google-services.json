@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "231579028582",
+    "firebase_url": "https://gpian20-default-rtdb.firebaseio.com",
+    "project_id": "gpian20",
+    "storage_bucket": "gpian20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231579028582:android:d2020a2d01874bfee5b1a7",
+        "android_client_info": {
+          "package_name": "com.example.gpian20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231579028582-mhv98essiqd7l1slpam5pk6aq0dokpi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6-vvqjr8SGilJv3YpM55r1i6REk0iYnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231579028582-mhv98essiqd7l1slpam5pk6aq0dokpi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
